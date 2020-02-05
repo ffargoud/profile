@@ -1,0 +1,91 @@
+@import url("data:application/octet-stream;base64,QGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdPcGVuIFNhbnMnOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogMzAwOwogIHNyYzogbG9jYWwoJ09wZW4gU2FucyBMaWdodCcpLCBsb2NhbCgnT3BlblNhbnMtTGlnaHQnKSwgdXJsKGh0dHA6Ly9mb250cy5nc3RhdGljLmNvbS9zL29wZW5zYW5zL3YxNy9tZW01WWFHczEyNk1pWnBCQS1VTl9yOE9VdWhzLnR0ZikgZm9ybWF0KCd0cnVldHlwZScpOwp9CkBmb250LWZhY2UgewogIGZvbnQtZmFtaWx5OiAnT3BlbiBTYW5zJzsKICBmb250LXN0eWxlOiBub3JtYWw7CiAgZm9udC13ZWlnaHQ6IDQwMDsKICBzcmM6IGxvY2FsKCdPcGVuIFNhbnMgUmVndWxhcicpLCBsb2NhbCgnT3BlblNhbnMtUmVndWxhcicpLCB1cmwoaHR0cDovL2ZvbnRzLmdzdGF0aWMuY29tL3Mvb3BlbnNhbnMvdjE3L21lbThZYUdzMTI2TWlacEJBLVVGVlowZS50dGYpIGZvcm1hdCgndHJ1ZXR5cGUnKTsKfQpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ09wZW4gU2Fucyc7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiA3MDA7CiAgc3JjOiBsb2NhbCgnT3BlbiBTYW5zIEJvbGQnKSwgbG9jYWwoJ09wZW5TYW5zLUJvbGQnKSwgdXJsKGh0dHA6Ly9mb250cy5nc3RhdGljLmNvbS9zL29wZW5zYW5zL3YxNy9tZW01WWFHczEyNk1pWnBCQS1VTjdyZ09VdWhzLnR0ZikgZm9ybWF0KCd0cnVldHlwZScpOwp9CkBmb250LWZhY2UgewogIGZvbnQtZmFtaWx5OiAnUG9wcGlucyc7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiAzMDA7CiAgc3JjOiBsb2NhbCgnUG9wcGlucyBMaWdodCcpLCBsb2NhbCgnUG9wcGlucy1MaWdodCcpLCB1cmwoaHR0cDovL2ZvbnRzLmdzdGF0aWMuY29tL3MvcG9wcGlucy92OS9weGlCeXA4a3Y4SkhnRlZyTER6OFoxeGxFQS50dGYpIGZvcm1hdCgndHJ1ZXR5cGUnKTsKfQpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ1BvcHBpbnMnOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNDAwOwogIHNyYzogbG9jYWwoJ1BvcHBpbnMgUmVndWxhcicpLCBsb2NhbCgnUG9wcGlucy1SZWd1bGFyJyksIHVybChodHRwOi8vZm9udHMuZ3N0YXRpYy5jb20vcy9wb3BwaW5zL3Y5L3B4aUV5cDhrdjhKSGdGVnJKSmZlZHcudHRmKSBmb3JtYXQoJ3RydWV0eXBlJyk7Cn0KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdQb3BwaW5zJzsKICBmb250LXN0eWxlOiBub3JtYWw7CiAgZm9udC13ZWlnaHQ6IDUwMDsKICBzcmM6IGxvY2FsKCdQb3BwaW5zIE1lZGl1bScpLCBsb2NhbCgnUG9wcGlucy1NZWRpdW0nKSwgdXJsKGh0dHA6Ly9mb250cy5nc3RhdGljLmNvbS9zL3BvcHBpbnMvdjkvcHhpQnlwOGt2OEpIZ0ZWckxHVDlaMXhsRUEudHRmKSBmb3JtYXQoJ3RydWV0eXBlJyk7Cn0KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdQb3BwaW5zJzsKICBmb250LXN0eWxlOiBub3JtYWw7CiAgZm9udC13ZWlnaHQ6IDcwMDsKICBzcmM6IGxvY2FsKCdQb3BwaW5zIEJvbGQnKSwgbG9jYWwoJ1BvcHBpbnMtQm9sZCcpLCB1cmwoaHR0cDovL2ZvbnRzLmdzdGF0aWMuY29tL3MvcG9wcGlucy92OS9weGlCeXA4a3Y4SkhnRlZyTEN6N1oxeGxFQS50dGYpIGZvcm1hdCgndHJ1ZXR5cGUnKTsKfQo=");
+
+
+body {
+  background-color: #f6eec7;
+  font-family: 'Open-Sans', sans-serif;
+  color: #ee8972;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 10px;
+  text-align: center;
+}
+
+
+h1 {
+  color: #d15a7c;
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+  line-height: normal;
+}
+
+h2 {
+  color: #d15a7c;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+  line-height: normal;
+}
+
+a
+{
+color: #d15a7c;
+text-decoration: none;
+}
+
+a:hover {
+background-color: #f7d695;
+}
+
+button {
+padding:10px;
+
+}
+
+.container {
+  background: #f6eec7;
+  padding: 30px;
+  width: 500px;
+  margin: 0 auto;
+}
+
+.card {
+  background: #f6eec7;
+  box-shadow: 2px 2px 3px #f7d695;
+  border: 2px dotted #f7d695;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .container {
+    width: 300px;
+  }
+}
